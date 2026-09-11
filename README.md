@@ -16,4 +16,9 @@ Penjelasan program dan hasil output:
 <img width="284" height="85" alt="Output" src="https://github.com/user-attachments/assets/3de1f043-c778-472e-a891-27849b984ad2" />
 
 
-2. 
+2. Pada baris nomor 8-38 di program menunjukkan perulangan dan conditional statement. Pada pilihan menu 1 adalah untuk mendaftarkan pasien baru dengan memasukkan nama, umur, dan keluhannya, lalu dilanjut dengan pemilihan poli, menggunakan conditional statement. Jika keluhannya adalah gigi, maka pasien akan masuk ke poli gigi, jika pasien dibawah umur 17 tahun maka akan  masuk ke poli anak, dan terakhir lainnya, jika keluhannya bukan gigi dan berusia diatas 17 tahun maka akan masuk ke poli umum. Setelah itu menyimpan pasien dengan nama, umur, keluhan dan poli sehingga bisa ditambahkan ke data pasien di list kosong menggunakan append. Dan perintah print untuk memberitahukan pendaftaran berhasil dan memunculkan data pasien.
+
+<img width="512" height="227" alt="1" src="https://github.com/user-attachments/assets/37451c08-a1f4-4189-9d7f-da8d2c9e9561" />
+
+
+3. Pada baris nomor 39-
