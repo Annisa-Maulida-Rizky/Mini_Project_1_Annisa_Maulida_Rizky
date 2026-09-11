@@ -26,6 +26,11 @@ Penjelasan program dan hasil output:
 <img width="552" height="267" alt="2" src="https://github.com/user-attachments/assets/1a24fdb5-0aaf-44dc-9996-0d8bb338bd5e" />
 
 
-Pada baris nomor 73-88 adalah pilihan menu 3, untuk menghapus data pasien. User akan diminta untuk menginput nama pasien yang ingin dihapus, jika nama salah maka akan muncul output nama pasien tidak valid dan akan kembali ke menu pilihan. Jika nama pasien benar, maka akan data pasien akan dihapus dengan .remove dan akan memunculkan output data pasien berhasil dihapus dan memunculkan data pasien terbaru.
+4. Pada baris nomor 73-88 adalah pilihan menu 3, untuk menghapus data pasien. User akan diminta untuk menginput nama pasien yang ingin dihapus, jika nama salah maka akan muncul output nama pasien tidak valid dan akan kembali ke menu pilihan. Jika nama pasien benar, maka akan data pasien akan dihapus dengan .remove dan akan memunculkan output data pasien berhasil dihapus dan memunculkan data pasien terbaru.
 
 <img width="544" height="187" alt="3" src="https://github.com/user-attachments/assets/8c17c875-7b6e-428a-830f-b04d70b01aff" />
+
+
+5. Pada baris nomor 91-103 adalah pilihan menu 4, untuk melihat daftar data pasien. Jika data tidak ditemukan maka akan muncul bahwa data pasien belum ada, jika ada maka akan muncul output daftar data pasien. Dan diakhir jika user memilih selain pilihan yang disediakan maka akan muncul output pilihan tidak valid dan akan disuruh memilih ulang.
+
+<img width="959" height="116" alt="Screenshot 2026-09-11 182545" src="https://github.com/user-attachments/assets/a61fafea-9aa6-4355-8d6d-954183d5dab4" />
