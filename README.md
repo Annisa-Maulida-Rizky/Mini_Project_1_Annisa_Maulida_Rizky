@@ -16,7 +16,7 @@ Penjelasan program dan hasil output:
 <img width="284" height="85" alt="Output" src="https://github.com/user-attachments/assets/3de1f043-c778-472e-a891-27849b984ad2" />
 
 
-2. Pada baris nomor 8-38 di program menunjukkan perulangan dan conditional statement. Pada perulangan akan menginput nomor pilihan dari 1-4 dan jika user mengetik keluar maka akan berhenti. Pada pilihan menu 1 adalah untuk mendaftarkan pasien baru dengan memasukkan nama, umur, dan keluhannya, lalu dilanjut dengan pemilihan poli, menggunakan conditional statement. Jika keluhannya adalah gigi, maka pasien akan masuk ke poli gigi, jika pasien dibawah umur 17 tahun maka akan  masuk ke poli anak, dan terakhir lainnya, jika keluhannya bukan gigi dan berusia diatas 17 tahun maka akan masuk ke poli umum. Setelah itu menyimpan pasien dengan nama, umur, keluhan dan poli sehingga bisa ditambahkan ke data pasien di list kosong menggunakan append. Dan perintah print untuk memberitahukan pendaftaran berhasil dan memunculkan data pasien.
+2. Pada baris nomor 8-38 di program menunjukkan perulangan dan conditional statement. Pada perulangan akan menginput nomor pilihan dari 1-4 dan jika user mengetik keluar maka akan berhenti. Pada pilihan menu 1 adalah untuk mendaftarkan pasien baru dengan memasukkan nama, umur, dan keluhannya, lalu dilanjut dengan pemilihan poli, menggunakan conditional statement. Jika keluhannya adalah gigi, maka pasien akan masuk ke poli gigi, jika pasien dibawah umur 17 tahun maka akan  masuk ke poli anak, dan terakhir lainnya, jika keluhannya bukan gigi dan berusia diatas 17 tahun maka akan masuk ke poli umum. Setelah itu menyimpan pasien dengan nama, umur, keluhan dan poli sehingga bisa ditambahkan ke data pasien di list kosong menggunakan .append. Dan perintah print untuk memberitahukan pendaftaran berhasil dan memunculkan data pasien.
 
 <img width="512" height="227" alt="1" src="https://github.com/user-attachments/assets/37451c08-a1f4-4189-9d7f-da8d2c9e9561" />
 
@@ -25,3 +25,7 @@ Penjelasan program dan hasil output:
 
 <img width="552" height="267" alt="2" src="https://github.com/user-attachments/assets/1a24fdb5-0aaf-44dc-9996-0d8bb338bd5e" />
 
+
+Pada baris nomor 73-88 adalah pilihan menu 3, untuk menghapus data pasien. User akan diminta untuk menginput nama pasien yang ingin dihapus, jika nama salah maka akan muncul output nama pasien tidak valid dan akan kembali ke menu pilihan. Jika nama pasien benar, maka akan data pasien akan dihapus dengan .remove dan akan memunculkan output data pasien berhasil dihapus dan memunculkan data pasien terbaru.
+
+<img width="544" height="187" alt="3" src="https://github.com/user-attachments/assets/8c17c875-7b6e-428a-830f-b04d70b01aff" />
