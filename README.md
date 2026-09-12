@@ -33,4 +33,5 @@ Penjelasan program dan hasil output:
 
 5. Kelima, pilihan menu 4, untuk melihat daftar data pasien. Jika data tidak ditemukan maka akan muncul bahwa data pasien belum ada, jika ada maka akan muncul output daftar data pasien. Dan diakhir jika user memilih selain pilihan yang disediakan maka akan muncul output pilihan tidak valid dan akan disuruh memilih ulang.
 
-<img width="959" height="116" alt="Screenshot 2026-09-11 182545" src="https://github.com/user-attachments/assets/a61fafea-9aa6-4355-8d6d-954183d5dab4" />
+<img width="572" height="128" alt="Screenshot 2026-09-12 180435" src="https://github.com/user-attachments/assets/71dc1eb8-98ef-44c9-8bc5-6d1d5335e891" />
+
