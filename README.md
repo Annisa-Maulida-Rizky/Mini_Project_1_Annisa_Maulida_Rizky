@@ -8,7 +8,7 @@ Gambar Flowchart:
 <img width="2088" height="1572" alt="FCDDP drawio" src="https://github.com/user-attachments/assets/a22dbafb-9ec3-4cdf-9bb4-3ae462260cc3" />
 
 
-Dari gambar flowchart diatas dapat dilihat pertama dimulai, lalu proses inisialisasi data dan menghasilkan output tampilan data, lalu user akan diminta untuk menginput pilihan. Lalu dilanjut dengan keputusan pertama, jika user memilih mengetik keluar, maka program akan selesai. Jika tidak, maka pilihan angka berapa yang user pilih, jika user memilih selain yang ada dipilihan maka tidak valid dan akan kembali ke input menu. Jika user memilih yang ada di menu maka akan dilakukan 1=pendaftaran, 2=ubah data, 3=hapus data, dan 4=lihat daftar, dan semua hasil output akan kembali lagi ke input menu pilihan.
+Dari gambar flowchart diatas dapat dilihat pertama dimulai, lalu proses inisialisasi data dan menghasilkan output tampilan data, lalu user akan diminta untuk menginput pilihan. Lalu dilanjut dengan keputusan pertama, jika user memilih mengetik keluar, maka program akan selesai. Jika tidak, maka pilihan angka berapa yang user pilih, jika user memilih selain yang ada dipilihan maka tidak valid dan akan kembali ke input menu. Jika user memilih yang ada di menu maka akan dilakukan 1=pendaftaran, 2=ubah data, 3=hapus data, dan 4=lihat daftar, dan setelah output selesai akan kembali lagi ke input menu pilihan.
 
 Penjelasan program dan hasil output:
 1. Pertama, inisialisasi data. Ada tuple untuk menyimpan menu dan list kosong untuk menyimpan data pasien kelak. Kemudian dilanjut dengan perintah print untuk menampilkan menu yang ada di tuple tersebut.
